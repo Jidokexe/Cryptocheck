@@ -1,0 +1,5 @@
+pip install psycopg2 cryptography
+pip install psycopg2 imaplib
+pip install psycopg2 email
+pip install psycopg2 smtplib
+    
