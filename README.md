@@ -40,4 +40,5 @@ python3 Cryptocheck.py
 
 
 # Контактная информация
-Email: ivanilovvm22@st.ithub.ru Telegram: @Jidok_exe
+Email: IvanilovVM22@st.ithub.ru Telegram: @Jidok_exe
+Email: KhaydukovDO22@st.ithub.ru Telegram: @coldy01
